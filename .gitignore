@@ -1,5 +1,9 @@
 #ignore phpstorm .idea folder
 .idea/*
+
 #ignore bootstrap file
 assets/css/bootstrap.min.css
 assets/js/bootstrap.min.js
+
+#ignore image folder
+assets/img
