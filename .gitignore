@@ -1,9 +1,11 @@
 #ignore phpstorm .idea folder
 .idea/*
-
-#ignore bootstrap file
+#ignore css files
 assets/css/bootstrap.min.css
+
+#ignore js files
 assets/js/bootstrap.min.js
+assets/js/jquery-3.4.1.min.js
 
 #ignore image folder
 assets/img
